@@ -1,4 +1,4 @@
-#include "logger.h"
+#include "libraries/logger/logger.h"
 
 int main(int argc, char* argv[]) {
     SinkType type = SinkType::CONSOLE;
