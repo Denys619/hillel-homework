@@ -1,1 +1,26 @@
+# CMake build directory
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Executables
+*.exe
 *.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Logs
+*.log
+
+# VSCode or CLion config
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
